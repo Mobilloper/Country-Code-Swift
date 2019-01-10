@@ -1,5 +1,5 @@
 # CountryList
-> A simple iOS framework that allows developers to present a list of countries.
+> A simple iOS framework that allows developers to present a list of countries with phone number codes
 
 [![Swift Version][swift-image]][swift-url]
 [![Build Status][travis-image]][travis-url]
